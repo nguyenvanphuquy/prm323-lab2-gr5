@@ -1,15 +1,18 @@
-
 # CHÂN DUNG NGƯỜI DÙNG (USER PERSONAS)
+
 ## Dự án: Ứng dụng quản lý thu chi cá nhân – Expense Tracker
 
-**Môn học:** PRM393 – Lab 2  
-**Nhóm:** GR5  
-**Trạng thái nghiên cứu:** Persona giả định (Proto-Persona)  
+**Môn học:** PRM393 – Lab 2  
+
+**Nhóm:** GR5  
+
+**Trạng thái nghiên cứu:** Persona giả định (Proto-Persona)  
+
 **Mục đích:** Xác định nhóm người dùng mục tiêu, nhu cầu, khó khăn và mức độ ưu tiên để định hướng thiết kế giao diện ứng dụng.
 
 ---
 
-# 1. TỔNG QUAN PERSONA
+## 1. TỔNG QUAN PERSONA
 
 Ứng dụng Expense Tracker được xây dựng nhằm hỗ trợ người dùng ghi chép thu nhập, chi tiêu, theo dõi ngân sách và phân tích tình hình tài chính cá nhân.
 
@@ -22,7 +25,6 @@ Nhóm xác định 3 chân dung người dùng đại diện cho các nhu cầu 
 | P03 | Lê Quốc Huy | Người quản lý chi tiêu gia đình | Bổ trợ – Supporting |
 
 **Lý do phân chia:**
-
 - Persona 01 đại diện cho nhóm người dùng có nhu cầu ghi chép chi tiêu hằng ngày nhanh chóng và đơn giản.
 - Persona 02 đại diện cho nhóm người dùng cần phân tích các khoản thu chi và theo dõi xu hướng tài chính.
 - Persona 03 đại diện cho nhóm người dùng cần lập kế hoạch và kiểm soát ngân sách theo từng danh mục.
@@ -31,10 +33,9 @@ Nhóm xác định 3 chân dung người dùng đại diện cho các nhu cầu 
 
 ---
 
-# 2. PERSONA 01 – NGƯỜI DÙNG CHÍNH (PRIMARY)
+## 2. PERSONA 01 – NGƯỜI DÙNG CHÍNH (PRIMARY)
 
-## 2.1. Thông tin cá nhân và hình mẫu người dùng
-
+### 2.1. Thông tin cá nhân và hình mẫu người dùng
 - **Họ và tên:** Nguyễn Minh Anh
 - **Tuổi:** 21
 - **Nghề nghiệp:** Sinh viên đại học năm 3
@@ -43,11 +44,11 @@ Nhóm xác định 3 chân dung người dùng đại diện cho các nhu cầu 
 - **Mức độ ưu tiên:** Cao nhất – Primary
 - **Trạng thái:** Persona giả định
 
-### Câu nói đại diện
+#### Câu nói đại diện
 
 "Tôi muốn biết mỗi ngày mình đã tiêu bao nhiêu tiền để không bị hết tiền trước khi kết thúc tháng."
 
-## 2.2. Bối cảnh sử dụng
+### 2.2. Bối cảnh sử dụng
 
 Minh Anh là sinh viên đang sinh sống và học tập tại Thành phố Hồ Chí Minh.
 
@@ -56,7 +57,6 @@ Nguồn tiền sinh hoạt chủ yếu đến từ gia đình và một phần t
 Minh Anh thường xuyên sử dụng điện thoại Android để thực hiện các hoạt động hằng ngày.
 
 Các khoản chi tiêu phổ biến bao gồm:
-
 - Ăn uống.
 - Đi lại.
 - Mua sắm cá nhân.
@@ -65,56 +65,50 @@ Các khoản chi tiêu phổ biến bao gồm:
 
 Minh Anh thường muốn ghi lại chi tiêu ngay sau khi thực hiện giao dịch.
 
-## 2.3. Mục tiêu
-
+### 2.3. Mục tiêu
 - Theo dõi chính xác số tiền chi tiêu mỗi ngày.
 - Biết được số tiền còn lại trong ngân sách tháng.
 - Hạn chế những khoản chi tiêu không cần thiết.
 - Tiết kiệm tiền cho các mục tiêu cá nhân.
 - Hình thành thói quen quản lý tài chính.
 
-## 2.4. Công việc cần thực hiện (Job to Be Done)
+### 2.4. Công việc cần thực hiện (Job to Be Done)
 
 Khi vừa chi tiêu một khoản tiền, Minh Anh muốn ghi lại giao dịch một cách nhanh chóng để biết mình đã sử dụng bao nhiêu tiền và còn lại bao nhiêu ngân sách trong tháng.
 
-## 2.5. Hành vi hiện tại
-
+### 2.5. Hành vi hiện tại
 - Thường xuyên kiểm tra số dư tài khoản ngân hàng.
 - Đôi khi ghi chép chi tiêu bằng ứng dụng ghi chú.
 - Có xu hướng ghi nhớ các khoản chi nhỏ thay vì ghi lại.
 - Ít khi tổng hợp chi tiêu vào cuối tháng.
 - Sử dụng điện thoại nhiều lần trong ngày.
 
-## 2.6. Khó khăn gặp phải
-
+### 2.6. Khó khăn gặp phải
 - Dễ quên các khoản chi tiêu nhỏ.
 - Không biết chính xác tiền đã được sử dụng vào đâu.
 - Khó kiểm soát chi tiêu khi có nhiều giao dịch.
 - Thường thiếu tiền vào cuối tháng.
 - Việc ghi chép thủ công mất thời gian.
 
-## 2.7. Động lực sử dụng
-
+### 2.7. Động lực sử dụng
 - Muốn tự chủ về tài chính.
 - Muốn giảm sự phụ thuộc vào gia đình.
 - Muốn tiết kiệm tiền.
 - Muốn hình thành thói quen chi tiêu hợp lý.
 - Muốn có một công cụ đơn giản và tiện lợi.
 
-## 2.8. Hạn chế
-
+### 2.8. Hạn chế
 - Ngân sách sinh hoạt hạn chế.
 - Không có nhiều thời gian ghi chép.
 - Không muốn thao tác qua nhiều màn hình.
 - Không thích biểu mẫu nhập liệu phức tạp.
 - Chủ yếu sử dụng ứng dụng trên điện thoại.
 
-## 2.9. Tình huống sử dụng điển hình
+### 2.9. Tình huống sử dụng điển hình
 
 Sau khi ăn trưa hết 45.000 VNĐ, Minh Anh mở ứng dụng Expense Tracker.
 
 Các bước thực hiện:
-
 1. Mở ứng dụng.
 2. Chọn chức năng "Thêm khoản chi".
 3. Nhập số tiền 45.000 VNĐ.
@@ -122,17 +116,21 @@ Các bước thực hiện:
 5. Nhấn "Lưu giao dịch".
 6. Quay về trang chủ để xem ngân sách còn lại.
 
-## 2.10. Tiêu chí thành công
+### 2.10. Phát biểu vấn đề và tiêu chí thành công
 
-- Có thể ghi lại một khoản chi trong tối đa 15 giây.
-- Xem được ngân sách còn lại ngay tại trang chủ.
-- Không cần hướng dẫn khi thực hiện thao tác cơ bản.
-- Có thể xem lại các giao dịch đã ghi.
-- Dễ dàng nhận biết khi sắp vượt ngân sách.
+#### Phát biểu vấn đề
 
-Các tiêu chí thời gian trên là mục tiêu thiết kế dự kiến, cần được kiểm chứng qua thử nghiệm.
+Nguyễn Minh Anh là sinh viên năm 3 có ngân sách sinh hoạt hạn chế. Vì ghi chép thủ công mất thời gian, Minh Anh thường chỉ nhớ trong đầu các khoản chi nhỏ như tiền ăn và đi lại, nên dễ bỏ sót giao dịch. Điều này khiến Minh Anh khó biết mình đã tiêu bao nhiêu mỗi ngày và còn bao nhiêu ngân sách cho phần còn lại của tháng.
 
-## 2.11. Thiết bị và nhu cầu hỗ trợ sử dụng
+#### Tiêu chí thành công
+
+- Từ Trang chủ, người dùng tự lưu được khoản chi 45.000 VNĐ vào danh mục Ăn uống trong tối đa 15 giây mà không cần hướng dẫn.
+- Sau khi lưu, người dùng chỉ ra được ngân sách tháng còn lại ngay trên Trang chủ. Số tiền còn lại giảm đúng 45.000 VNĐ so với trước khi lưu.
+- Người dùng tìm lại được khoản chi vừa lưu trong Lịch sử giao dịch và xác nhận đúng số tiền và danh mục.
+
+Các tiêu chí trên là mục tiêu thiết kế dựa trên persona giả định và sẽ được kiểm chứng khi cho người dùng thử prototype hoặc ứng dụng.
+
+### 2.11. Thiết bị và nhu cầu hỗ trợ sử dụng
 
 **Thiết bị:**
 - Điện thoại Android.
@@ -146,7 +144,7 @@ Các tiêu chí thời gian trên là mục tiêu thiết kế dự kiến, cầ
 - Giao diện đơn giản.
 - Chức năng thêm khoản chi dễ tìm.
 
-## 2.12. Bằng chứng và trạng thái xác minh
+### 2.12. Bằng chứng và trạng thái xác minh
 
 **Trạng thái:** Persona giả định – Chưa xác minh.
 
@@ -160,10 +158,9 @@ Các thông tin được xây dựng dựa trên giả định về hành vi qu�
 
 ---
 
-# 3. PERSONA 02 – NGƯỜI DÙNG THỨ CẤP (SECONDARY)
+## 3. PERSONA 02 – NGƯỜI DÙNG THỨ CẤP (SECONDARY)
 
-## 3.1. Thông tin cá nhân và hình mẫu người dùng
-
+### 3.1. Thông tin cá nhân và hình mẫu người dùng
 - **Họ và tên:** Trần Ngọc Linh
 - **Tuổi:** 27
 - **Nghề nghiệp:** Nhân viên Marketing
@@ -173,16 +170,15 @@ Các thông tin được xây dựng dựa trên giả định về hành vi qu�
 - **Mức độ ưu tiên:** Trung bình – Secondary
 - **Trạng thái:** Persona giả định
 
-### Câu nói đại diện
+#### Câu nói đại diện
 
 "Tôi có thu nhập ổn định nhưng không hiểu vì sao cuối tháng mình lại tiết kiệm được quá ít."
 
-## 3.2. Bối cảnh sử dụng
+### 3.2. Bối cảnh sử dụng
 
 Ngọc Linh là nhân viên văn phòng có công việc tương đối bận rộn.
 
 Linh có thu nhập ổn định nhưng thường xuyên phát sinh các khoản chi tiêu như:
-
 - Ăn uống.
 - Mua sắm.
 - Di chuyển.
@@ -192,56 +188,50 @@ Linh có thu nhập ổn định nhưng thường xuyên phát sinh các khoản
 
 Linh thường sử dụng iPhone để kiểm tra tài chính cá nhân sau giờ làm hoặc vào cuối tuần.
 
-## 3.3. Mục tiêu
-
+### 3.3. Mục tiêu
 - Hiểu rõ tình hình thu chi hằng tháng.
 - Biết danh mục nào chiếm nhiều tiền nhất.
 - Giảm các khoản chi tiêu không cần thiết.
 - Tăng số tiền tiết kiệm mỗi tháng.
 - Theo dõi xu hướng chi tiêu theo thời gian.
 
-## 3.4. Công việc cần thực hiện (Job to Be Done)
+### 3.4. Công việc cần thực hiện (Job to Be Done)
 
 Khi tổng kết tài chính cuối tháng, Linh muốn xem báo cáo thu chi và biểu đồ theo danh mục để nhận biết các khoản chi tiêu lớn và điều chỉnh thói quen sử dụng tiền.
 
-## 3.5. Hành vi hiện tại
-
+### 3.5. Hành vi hiện tại
 - Kiểm tra lịch sử giao dịch ngân hàng.
 - Đôi khi tổng hợp chi tiêu bằng Excel.
 - Thường xem lại chi tiêu vào cuối tháng.
 - Sử dụng nhiều phương thức thanh toán.
 - Có xu hướng quan tâm đến báo cáo trực quan.
 
-## 3.6. Khó khăn gặp phải
-
+### 3.6. Khó khăn gặp phải
 - Các giao dịch nằm ở nhiều nguồn khác nhau.
 - Khó phân loại chi tiêu theo danh mục.
 - Không có cái nhìn tổng quan về tài chính.
 - Khó xác định khoản chi tiêu không cần thiết.
 - Việc tổng hợp dữ liệu thủ công tốn thời gian.
 
-## 3.7. Động lực sử dụng
-
+### 3.7. Động lực sử dụng
 - Muốn quản lý tài chính hiệu quả.
 - Muốn tiết kiệm thời gian.
 - Muốn đạt mục tiêu tiết kiệm.
 - Muốn cải thiện thói quen chi tiêu.
 - Muốn xem thông tin tài chính bằng biểu đồ.
 
-## 3.8. Hạn chế
-
+### 3.8. Hạn chế
 - Lịch làm việc bận rộn.
 - Không có nhiều thời gian nhập liệu.
 - Không thích xem quá nhiều số liệu phức tạp.
 - Cần giao diện trực quan.
 - Muốn truy cập báo cáo nhanh chóng.
 
-## 3.9. Tình huống sử dụng điển hình
+### 3.9. Tình huống sử dụng điển hình
 
 Vào cuối tháng, Linh muốn biết mình đã chi bao nhiêu tiền cho mua sắm.
 
 Các bước thực hiện:
-
 1. Mở ứng dụng Expense Tracker.
 2. Chọn mục "Thống kê".
 3. Chọn khoảng thời gian "Tháng này".
@@ -249,8 +239,7 @@ Các bước thực hiện:
 5. Xác định danh mục chi tiêu lớn nhất.
 6. So sánh với kế hoạch chi tiêu ban đầu.
 
-## 3.10. Tiêu chí thành công
-
+### 3.10. Tiêu chí thành công
 - Xem được báo cáo tháng trong tối đa 30 giây.
 - Xác định được danh mục chi tiêu lớn nhất.
 - Hiểu được xu hướng chi tiêu thông qua biểu đồ.
@@ -259,7 +248,7 @@ Các bước thực hiện:
 
 Các tiêu chí này cần được kiểm chứng trong quá trình thử nghiệm.
 
-## 3.11. Thiết bị và nhu cầu hỗ trợ sử dụng
+### 3.11. Thiết bị và nhu cầu hỗ trợ sử dụng
 
 **Thiết bị:**
 - Điện thoại iPhone.
@@ -273,7 +262,7 @@ Các tiêu chí này cần được kiểm chứng trong quá trình thử nghi�
 - Điều hướng đơn giản.
 - Có bộ lọc theo tháng và danh mục.
 
-## 3.12. Bằng chứng và trạng thái xác minh
+### 3.12. Bằng chứng và trạng thái xác minh
 
 **Trạng thái:** Persona giả định – Chưa xác minh.
 
@@ -285,10 +274,9 @@ Các tiêu chí này cần được kiểm chứng trong quá trình thử nghi�
 
 ---
 
-# 4. PERSONA 03 – NGƯỜI DÙNG BỔ TRỢ (SUPPORTING)
+## 4. PERSONA 03 – NGƯỜI DÙNG BỔ TRỢ (SUPPORTING)
 
-## 4.1. Thông tin cá nhân và hình mẫu người dùng
-
+### 4.1. Thông tin cá nhân và hình mẫu người dùng
 - **Họ và tên:** Lê Quốc Huy
 - **Tuổi:** 42
 - **Nghề nghiệp:** Nhân viên kinh doanh
@@ -298,16 +286,15 @@ Các tiêu chí này cần được kiểm chứng trong quá trình thử nghi�
 - **Mức độ ưu tiên:** Bổ trợ – Supporting
 - **Trạng thái:** Persona giả định
 
-### Câu nói đại diện
+#### Câu nói đại diện
 
 "Tôi muốn quản lý chi tiêu gia đình rõ ràng để luôn có khoản dự phòng cho những việc quan trọng."
 
-## 4.2. Bối cảnh sử dụng
+### 4.2. Bối cảnh sử dụng
 
 Quốc Huy là người tham gia quản lý tài chính gia đình.
 
 Hằng tháng, gia đình có nhiều khoản chi tiêu như:
-
 - Tiền ăn uống.
 - Tiền điện, nước, Internet.
 - Chi phí học tập của con.
@@ -317,56 +304,50 @@ Hằng tháng, gia đình có nhiều khoản chi tiêu như:
 
 Huy thường sử dụng điện thoại Android vào buổi tối hoặc cuối tuần để kiểm tra tình hình chi tiêu.
 
-## 4.3. Mục tiêu
-
+### 4.3. Mục tiêu
 - Kiểm soát tổng chi tiêu gia đình.
 - Phân bổ ngân sách cho từng danh mục.
 - Tránh vượt ngân sách tháng.
 - Theo dõi các khoản thanh toán định kỳ.
 - Duy trì quỹ dự phòng.
 
-## 4.4. Công việc cần thực hiện (Job to Be Done)
+### 4.4. Công việc cần thực hiện (Job to Be Done)
 
 Khi lập kế hoạch tài chính đầu tháng, Huy muốn phân chia ngân sách cho từng nhóm chi tiêu để bảo đảm các nhu cầu quan trọng của gia đình được đáp ứng.
 
-## 4.5. Hành vi hiện tại
-
+### 4.5. Hành vi hiện tại
 - Ghi chép chi tiêu bằng sổ hoặc Excel.
 - Trao đổi với vợ về các khoản thanh toán.
 - Kiểm tra hóa đơn định kỳ.
 - Tổng hợp chi tiêu theo tuần hoặc tháng.
 - Ưu tiên các khoản chi thiết yếu.
 
-## 4.6. Khó khăn gặp phải
-
+### 4.6. Khó khăn gặp phải
 - Khó tổng hợp nhiều khoản chi khác nhau.
 - Dễ bỏ sót hóa đơn định kỳ.
 - Không biết danh mục nào đang vượt ngân sách.
 - Mất thời gian tổng hợp chi tiêu.
 - Khó theo dõi số tiền dự phòng còn lại.
 
-## 4.7. Động lực sử dụng
-
+### 4.7. Động lực sử dụng
 - Bảo đảm tài chính gia đình ổn định.
 - Quản lý chi tiêu minh bạch.
 - Giảm các khoản chi không cần thiết.
 - Chuẩn bị tài chính cho tương lai.
 - Có kế hoạch chi tiêu rõ ràng.
 
-## 4.8. Hạn chế
-
+### 4.8. Hạn chế
 - Ít thời gian học cách sử dụng ứng dụng mới.
 - Không thích giao diện có quá nhiều chức năng.
 - Cần các thao tác rõ ràng.
 - Muốn thông tin dễ hiểu.
 - Ưu tiên sự đơn giản và ổn định.
 
-## 4.9. Tình huống sử dụng điển hình
+### 4.9. Tình huống sử dụng điển hình
 
 Đầu tháng, Huy muốn phân bổ ngân sách cho gia đình.
 
 Các bước thực hiện:
-
 1. Mở ứng dụng Expense Tracker.
 2. Chọn chức năng "Ngân sách".
 3. Tạo ngân sách cho danh mục "Ăn uống".
@@ -375,8 +356,7 @@ Các bước thực hiện:
 6. Lưu kế hoạch ngân sách.
 7. Theo dõi tiến độ chi tiêu trong tháng.
 
-## 4.10. Tiêu chí thành công
-
+### 4.10. Tiêu chí thành công
 - Tạo ngân sách cho một danh mục trong tối đa 2 phút.
 - Nhận biết được danh mục sắp vượt giới hạn.
 - Xem được tổng chi tiêu theo danh mục.
@@ -385,7 +365,7 @@ Các bước thực hiện:
 
 Các tiêu chí thời gian là mục tiêu thiết kế dự kiến.
 
-## 4.11. Thiết bị và nhu cầu hỗ trợ sử dụng
+### 4.11. Thiết bị và nhu cầu hỗ trợ sử dụng
 
 **Thiết bị:**
 - Điện thoại Android.
@@ -399,7 +379,7 @@ Các tiêu chí thời gian là mục tiêu thiết kế dự kiến.
 - Thanh tiến độ ngân sách dễ hiểu.
 - Có cảnh báo khi sắp vượt ngân sách.
 
-## 4.12. Bằng chứng và trạng thái xác minh
+### 4.12. Bằng chứng và trạng thái xác minh
 
 **Trạng thái:** Persona giả định – Chưa xác minh.
 
@@ -411,8 +391,7 @@ Các tiêu chí thời gian là mục tiêu thiết kế dự kiến.
 
 ---
 
-# 5. BẢNG SO SÁNH VÀ THỨ TỰ ƯU TIÊN PERSONA
-
+## 5. BẢNG SO SÁNH VÀ THỨ TỰ ƯU TIÊN PERSONA
 | Tiêu chí | P01 – Minh Anh | P02 – Ngọc Linh | P03 – Quốc Huy |
 |---|---|---|---|
 | Mức ưu tiên | Chính | Thứ cấp | Bổ trợ |
@@ -422,36 +401,33 @@ Các tiêu chí thời gian là mục tiêu thiết kế dự kiến.
 | Khó khăn chính | Quên khoản chi | Thiếu báo cáo tổng quan | Khó kiểm soát ngân sách |
 | Tính năng ưu tiên | Thêm khoản chi | Thống kê, biểu đồ | Ngân sách theo danh mục |
 
-## 5.1. Giải thích thứ tự ưu tiên
+### 5.1. Giải thích thứ tự ưu tiên
 
-### Ưu tiên 1 – Nguyễn Minh Anh
+#### Ưu tiên 1 – Nguyễn Minh Anh
 
 Minh Anh được chọn làm Persona chính vì nhu cầu ghi chép chi tiêu hằng ngày phù hợp với chức năng cốt lõi của Expense Tracker.
 
 Các tính năng phục vụ Persona này cần được phát triển trước:
-
 - Thêm khoản thu, khoản chi.
 - Xem danh sách giao dịch.
 - Theo dõi tổng chi tiêu.
 - Xem ngân sách còn lại.
 
-### Ưu tiên 2 – Trần Ngọc Linh
+#### Ưu tiên 2 – Trần Ngọc Linh
 
 Ngọc Linh được chọn làm Persona thứ cấp vì có nhu cầu phân tích tài chính chuyên sâu hơn.
 
 Các tính năng cần thiết:
-
 - Thống kê thu chi.
 - Biểu đồ chi tiêu theo danh mục.
 - Lọc giao dịch theo thời gian.
 - Báo cáo thu chi hằng tháng.
 
-### Ưu tiên 3 – Lê Quốc Huy
+#### Ưu tiên 3 – Lê Quốc Huy
 
 Quốc Huy được chọn làm Persona bổ trợ vì nhu cầu tập trung vào việc lập kế hoạch và kiểm soát ngân sách theo danh mục.
 
 Các tính năng cần thiết:
-
 - Tạo ngân sách.
 - Phân bổ ngân sách theo danh mục.
 - Theo dõi tiến độ chi tiêu.
@@ -459,16 +435,14 @@ Các tính năng cần thiết:
 
 ---
 
-# 6. LIÊN KẾT PERSONA VỚI THIẾT KẾ GIAO DIỆN
-
+## 6. LIÊN KẾT PERSONA VỚI THIẾT KẾ GIAO DIỆN
 | Persona | Màn hình cần thiết kế | Chức năng chính |
 |---|---|---|
 | P01 | Trang chủ, Thêm giao dịch, Lịch sử giao dịch | Ghi chép chi tiêu nhanh |
 | P02 | Thống kê, Báo cáo | Biểu đồ và phân tích thu chi |
 | P03 | Ngân sách, Chi tiết danh mục | Thiết lập và theo dõi ngân sách |
 
-## 6.1. Thứ tự ưu tiên thiết kế
-
+### 6.1. Thứ tự ưu tiên thiết kế
 1. Màn hình Trang chủ.
 2. Màn hình Thêm khoản thu/chi.
 3. Màn hình Lịch sử giao dịch.
@@ -476,10 +450,9 @@ Các tính năng cần thiết:
 5. Màn hình Thống kê thu chi.
 6. Màn hình Quản lý ngân sách theo danh mục.
 
-## 6.2. Định hướng thiết kế
+### 6.2. Định hướng thiết kế
 
 Giao diện Expense Tracker cần đáp ứng các nguyên tắc:
-
 - Đơn giản và dễ sử dụng.
 - Hạn chế số bước nhập liệu.
 - Hiển thị số tiền rõ ràng.
@@ -490,23 +463,25 @@ Giao diện Expense Tracker cần đáp ứng các nguyên tắc:
 
 ---
 
-# 7. GIẢ ĐỊNH NGHIÊN CỨU VÀ KẾ HOẠCH XÁC MINH
+## 7. GIẢ ĐỊNH NGHIÊN CỨU VÀ KẾ HOẠCH XÁC MINH
 
-## 7.1. Các giả định ban đầu
+### 7.1. Các giả định ban đầu
 
 **Giả định 1:**
+
 Sinh viên muốn ghi chép chi tiêu nhanh và đơn giản.
 
 **Giả định 2:**
+
 Nhân viên văn phòng muốn xem báo cáo thu chi trực quan.
 
 **Giả định 3:**
+
 Người quản lý chi tiêu gia đình cần thiết lập ngân sách theo danh mục.
 
-## 7.2. Phương pháp xác minh
+### 7.2. Phương pháp xác minh
 
 Nhóm dự kiến thực hiện:
-
 1. Phỏng vấn người dùng thuộc các nhóm mục tiêu.
 2. Tìm hiểu cách họ đang quản lý chi tiêu.
 3. Xác định khó khăn thực tế.
@@ -514,8 +489,7 @@ Nhóm dự kiến thực hiện:
 5. So sánh kết quả với các giả định ban đầu.
 6. Cập nhật Persona dựa trên dữ liệu thu thập.
 
-## 7.3. Trạng thái nghiên cứu
-
+### 7.3. Trạng thái nghiên cứu
 - **Hiện tại:** 3 Persona giả định.
 - **Bằng chứng thực tế:** Chưa thu thập.
 - **Bước tiếp theo:** Phỏng vấn và kiểm chứng nhu cầu.
@@ -523,12 +497,11 @@ Nhóm dự kiến thực hiện:
 
 ---
 
-# 8. KẾT LUẬN
+## 8. KẾT LUẬN
 
 Ba Persona được xây dựng nhằm định hướng thiết kế ứng dụng Expense Tracker phù hợp với các nhóm người dùng có nhu cầu khác nhau.
 
 Trong đó:
-
 - **Nguyễn Minh Anh** là Persona chính, tập trung vào ghi chép chi tiêu nhanh.
 - **Trần Ngọc Linh** là Persona thứ cấp, tập trung vào thống kê và phân tích tài chính.
 - **Lê Quốc Huy** là Persona bổ trợ, tập trung vào quản lý ngân sách theo danh mục.
